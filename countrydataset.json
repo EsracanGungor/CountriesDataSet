@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "currency": "DZD",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/dza.png",
+    "language": "Arabic"
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra Vella",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/and.png",
+    "language": "Catalan"
+  },
+  {
+    "name": "Antartica",
+    "capital": "Antartica",
+    "region": "Polar",
+    "currency": "AUD",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/ata.png",
+    "language": "English"
+  },
+  {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "region": "Asia",
+    "currency": "AZN",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/aze.png",
+    "language": "Azerbaijani"
+  },
+  {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/bel.png",
+    "language": "French"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasilia",
+    "region": "Americas",
+    "currency": "BRL",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/bra.png",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "currency": "KHR",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/bra.png",
+    "language": "Khmer"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "currency": "CAD",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/can.png",
+    "language": "English"
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "currency": "CUC",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/cub.png",
+    "language": "Spanish"
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "currency": "DKK",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/dnk.png",
+    "language": "Danish"
+  },
+{
+    "name": "Ireland",
+    "capital": "Dublin",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/irl.png",
+    "language": "English"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "currency": "JPY",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/jpn.png",
+    "language": "Japanese"
+  },
+  {
+    "name": "Russian Federation",
+    "capital": "Moscow",
+    "region": "Europe",
+    "currency": "RUB",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/rus.png",
+    "language": "Russian"
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "currency": "TRY",
+    "flag": "https://raw.githubusercontent.com/EsracanGungor/CountriesDataSet/main/tur.png",
+    "language": "Turkish"
+  }
+]
